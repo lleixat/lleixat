@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lleixat
-- 👀 I’m interested in DevOps, Dev, Cloud & OSS
+- 👀 I’m interested in DevOps, Dev, Cloud & OSS, IoT and IA
 - 🌱 I’m currently DevOps consultant & Coach for Suricats Consulting (FR) 
 
 
