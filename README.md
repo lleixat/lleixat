@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lleixat
 - 👀 I’m interested in DevOps, Dev, Cloud & OSS, IoT and IA
-- 🌱 I’m currently DevOps consultant & Coach for Suricats Consulting (FR) 
+- 🌱 I’m currently Crafts, DevOps consultant & Coach for Inside Group (FR) 
 
 
 <!---
